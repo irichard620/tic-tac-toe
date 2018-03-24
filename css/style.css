@@ -1,0 +1,83 @@
+html, body {
+  background-color: #009688;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  color: white;
+}
+
+#container {
+  margin-top: 0px;
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+#screen-q1 {
+  text-align: center;
+}
+
+#screen-q2 {
+  text-align: center;
+}
+
+#screen-game {
+  display: block;
+  text-align: center;
+}
+
+#screen-end {
+  display: block;
+  text-align: center;
+}
+
+b {
+  color: #009688;
+}
+
+h3 {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+button {
+  margin-top: 20px;
+  background-color: #B2DFDB;
+}
+
+#board {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cell {
+  width: 70px;
+  height: 70px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  line-height: 70px;
+  font-size: 60px;
+  background-color: #00796B;
+  display: inline-block;
+  color: white;
+}
+
+#madeby {
+  font-size: 1.5em;
+  color: black;
+  text-align: center;
+}
+
+#fcc-link {
+  color: #B2DFDB;
+}
